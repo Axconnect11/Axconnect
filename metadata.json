@@ -1,0 +1,6 @@
+{
+  "name": "ApexConnect Direct Selling & Wellness",
+  "description": "Premium health-oriented, direct-selling, and lifestyle marketing website with product shopping cart, step-by-step partner joining form, secure UPI payment simulator, downline team structures, and interactive employee earnings dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
